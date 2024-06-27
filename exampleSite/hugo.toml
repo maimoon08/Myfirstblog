@@ -1,6 +1,6 @@
-baseurl = "https://www.example.org/"
-title = "Kiera"
-copyright = "Copyright &copy; 2023 - Author Name"
+baseurl = "https://github.com/maimoon08/Myfirstblog"
+title = "Maimoon"
+copyright = "Copyright &copy; 2024 - Maimunat Kabir"
 canonifyurls = true
 theme = "hugo-kiera"
 
@@ -15,7 +15,7 @@ pygmentsCodeFences = true
 # Note: to disable a social network icon delete or comment out the corresponding line
 [author]
     name = "Example"
-    github = "funkydan2/hugo-kiera"
+    github = "maimoon08"
     #gitlab = "username"
     #linkedin = "username"
     #facebook = "username"
